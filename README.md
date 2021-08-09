@@ -111,5 +111,5 @@ cd routersploit
 git pull
 ```
 
-Forked from [![This Repo](https://github.com/threat9/routersploit)]
+Forked from [This Repo](https://github.com/threat9/routersploit)]
 
